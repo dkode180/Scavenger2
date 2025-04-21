@@ -1,1 +1,2 @@
-Terminado minijuego de tutorial para el funcionamiento del IDE y el motor de Godot. 
+-Terminado minijuego de tutorial para el funcionamiento del IDE y el motor de Godot. 
+-Creado el funcionamiento de movimiento de la nave del J1 y sprites descargados.
